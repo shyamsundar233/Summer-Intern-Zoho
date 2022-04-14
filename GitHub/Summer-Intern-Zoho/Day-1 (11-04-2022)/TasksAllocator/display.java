@@ -1,6 +1,6 @@
-package Main;
+package TasksAllocator;
 
-public class display extends Home{
+public class display extends Home {
 
     public void viewAll(){
 

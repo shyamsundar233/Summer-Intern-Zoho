@@ -1,4 +1,4 @@
-package Main;
+package TasksAllocator;
 
 public class taskAdder extends Home{
 

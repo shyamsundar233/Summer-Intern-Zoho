@@ -1,4 +1,4 @@
-package Main;
+package TasksAllocator;
 
 import java.util.*;
 
