@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url('img.jpg');
+	background-size: cover;
+}
+
+.a {
+  background-image: url('cricket.jpg');
+  background-size: cover;
+}
+
+.b {
+  background-image: url('football.jpg');
+  background-size: cover;
+}
+
+h1 {
+  color: red;
+}

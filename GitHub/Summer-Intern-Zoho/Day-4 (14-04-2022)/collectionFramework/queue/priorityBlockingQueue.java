@@ -1,5 +1,6 @@
 package collectionFramework.queue;
 
+import java.util.PriorityQueue;
 import java.util.Stack;
 import java.util.concurrent.PriorityBlockingQueue;
 
@@ -22,6 +23,12 @@ public class priorityBlockingQueue {
         }
         PriorityBlockingQueue<Integer> queue3 = new PriorityBlockingQueue<Integer>(stack);
         System.out.println(queue3);
+
+        PriorityQueue queue4 = new PriorityQueue();
+        PriorityBlockingQueue queue5 = new PriorityBlockingQueue();
+
+        System.out.println(queue4);
+        System.out.println(queue5);
 
     }
 

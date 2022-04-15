@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url('img.jpg');
+}
+
+h1 {
+  color: red;
+}
